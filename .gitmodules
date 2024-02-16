@@ -1,0 +1,3 @@
+[submodule "indic_transliteration"]
+	path = indic_transliteration
+	url = https://github.com/Nikhil-Paleti/indic_transliteration.git
